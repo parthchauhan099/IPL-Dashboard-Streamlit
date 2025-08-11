@@ -44,3 +44,5 @@ Users can filter metrics dynamically by selecting the **player name** and **seas
 - **Visualization**: Plotly, Seaborn, Matplotlib
 - **Language**: Python
 - **Data**: IPL match and delivery data (2008–2024)
+
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7360709425021575168/)
